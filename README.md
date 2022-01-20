@@ -18,7 +18,7 @@
 
 💞 Me gusta programar pero lo que amo realmente es investigar, analizar datos e información.
 
-🖌️ Entre mis hobbies se encuentran: dibujar y pintar, leer, mirar películas y salir a caminar para disfrutar de la naturaleza.
+🖌️ Entre mis hobbies se encuentran: geanealogía genética, dibujar y pintar, leer, mirar películas y salir a caminar para disfrutar de la naturaleza.
 
 ---
 
