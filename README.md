@@ -1,9 +1,11 @@
-### Hi 👋, my name is Analía.
+# Hola! 👋, mi nombre es Analía.
 
-📚 I’m currently learning Data Science & Python.
+## ❤️ Voy a ser Data Scientist!
+
+### 📚 Actualmente estoy estudiando Data Science.
 
 💻 Skills: PHP / JS / HTML / CSS
-👩‍🎓 💪🏻 ❤️
+👩‍🎓 💪🏻 
 - 📩 How to reach me: anavlopez@gmail.com 
 
 
