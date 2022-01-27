@@ -1,4 +1,4 @@
-![Esta es una imagen](https://myoctocat.com/assets/images/base-octocat.svg)
+![Esta es una imagen](https://github.com/analialopezf/analialopezf/blob/main/datascience-640.jpg)
 ---
 # Hola! 👋, mi nombre es Analía.
 
