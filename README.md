@@ -28,7 +28,7 @@
 
 ---
 📩 Puedes encontrarme en:
-- Twitter: (https://twitter.com/analialopezf) 
-- LinkedIn: (https://www.linkedin.com/in/analialopezf/)
+- Twitter: (https://twitter.com/analialofer) 
+- LinkedIn: (https://www.linkedin.com/in/analialofer/)
 
 ---
