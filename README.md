@@ -2,7 +2,7 @@
 ---
 # Hola! 👋, mi nombre es Analía.
 
-## ❤️ Voy a ser Data Scientist!
+## ❤️ Soy Data Scientist!
 
 ### 📚 Actualmente estoy estudiando Data Science.
 ---
